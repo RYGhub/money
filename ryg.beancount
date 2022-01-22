@@ -1,0 +1,23 @@
+;;;;; Impostazioni ;;;;;
+; Servono per configurare beancount (il parser del file) e fava (l'interfaccia grafica).
+; Le opzioni di beancount non hanno bisogno di una data, mentre quelle di fava sì.
+
+option "title" "Bilancio della RYG"
+option "operating_currency" "EUR"
+
+1970-01-01 custom "fava-option" "currency-column" "74"
+1970-01-01 custom "fava-option" "default-page" "balance_sheet"
+1970-01-01 custom "fava-option" "indent" "4"
+1970-01-01 custom "fava-option" "journal-show" "open close transaction other balance note document budget query metadata"
+1970-01-01 custom "fava-option" "use-external-editor" "1"
+
+
+
+;;;;; Operazioni ;;;;;
+
+; 2022-01-21 open Income:Donations
+; 2022-01-21 open Assets:PayPal
+
+; 2022-01-21 * "Steffo" "Donazione"
+;     Assets:PayPal                                                     10.00 EUR
+;     Income:Donations                                                 -10.00 EUR
