@@ -15,9 +15,9 @@ option "operating_currency" "EUR"
 
 ;;;;; Operazioni ;;;;;
 
-; 2022-01-21 open Income:Donations
-; 2022-01-21 open Assets:PayPal
+; 2022-01-31 open Income:Donations
+; 2022-01-31 open Assets:Revolut
 
-; 2022-01-21 * "Steffo" "Donazione"
-;     Assets:PayPal                                                     10.00 EUR
+; 2022-01-31 * "Steffo" "Attivazione account Revolut"
+;     Assets:Revolut                                                     10.00 EUR
 ;     Income:Donations                                                 -10.00 EUR
