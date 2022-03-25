@@ -59,4 +59,21 @@ option "operating_currency" "EUR"
      Assets:Revolut                                                      5.00 EUR
      Income:Donations                                                   -5.00 EUR
 
+2022-03-23 * "Cate" "RYG Season Pass - Primavera"
+     Assets:Revolut                                                      5.00 EUR
+     Income:Donations                                                   -5.00 EUR
+
+2022-03-24 * "Vik" "RYG Season Pass - Primavera"
+     Assets:Revolut                                                      5.01 EUR
+     Income:Donations                                                   -5.01 EUR
+
+2022-03-24 * "Mallllco" "RYG Season Pass - Primavera"
+     Assets:Revolut                                                      5.00 EUR
+     Income:Donations                                                   -5.00 EUR
+
+2022-03-24 * "Gattopardo" "RYG Season Pass - Primavera"
+     Assets:Revolut                                                      5.00 EUR
+     Income:Donations                                                   -5.00 EUR
+
 2022-03-25 note Equity:Unknown "Configurato webhook per aggiornamento automatico"
+
