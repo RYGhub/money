@@ -80,3 +80,11 @@ option "operating_currency" "EUR"
 2022-03-30 * "Spaggia" "RYG Season Pass - Primavera"
      Assets:Revolut                                                      5.68 EUR
      Income:Donations                                                   -5.68 EUR
+
+2022-05-21 * "Steffo" "Premi RARI 2022"
+     Assets:Revolut                                                      -15.0 EUR
+     Income:Donations                                                    15.0 EUR
+
+2022-05-21 * "Nemesis" "Premi RARI 2022"
+     Assets:Revolut                                                      -22.5 EUR
+     Income:Donations                                                    22.5 EUR
