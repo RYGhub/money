@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Format beancount file",
+            "type": "shell",
+            "command": ".scripts/format.fish ${file}",
+            "problemMatcher": []
+        }
+    ]
+}
