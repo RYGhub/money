@@ -28,6 +28,9 @@ option "operating_currency" "EUR"
 ; Spese per eventi, inclusi i premi
 2022-01-31 open Expenses:Events
 
+; Giveaway di giochi, soprattutto per quando avanzano soldi alla fine di una season
+2022-01-31 open Expenses:Giveaways
+
 ; Soldi attualmente sul conto Revolut di Nemesis
 2022-01-31 open Assets:Revolut
 
@@ -114,10 +117,24 @@ pushtag #season-1
      Assets:Revolut                                                   -7.50 EUR
      Expenses:Events                                                   7.50 EUR
 
+2022-06-26 ! "Steffo" "Giveaway di Deep Rock Galactic" #giveaway-s1
+     Expenses:Giveaways                                               10.00 EUR
+     Assets:Revolut
+
+2022-06-26 ! "Steffo" "Giveaway di Monster Hunter: World" #giveaway-s1
+     Expenses:Giveaways                                               15.00 EUR
+     Assets:Revolut
+
+2022-06-26 ! "Steffo" "Giveaway di Devil May Cry 5" #giveaway-s1
+     Expenses:Giveaways                                               10.00 EUR
+     Assets:Revolut
+
 poptag #season-1
 
 2022-06-27 note Income:SeasonPass "Inizio Season 2"
 
 pushtag #season-2
+
+; Season 2 things go here
 
 poptag #season-2
