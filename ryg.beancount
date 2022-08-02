@@ -141,4 +141,8 @@ pushtag #season-2
 
 ; Season 2 things go here
 
+2022-08-2 * "Steffo" "RYG Season Pass - Estate"
+     Assets:Revolut                                                    5.00 EUR
+     Income:SeasonPass                                                -5.00 EUR
+
 poptag #season-2
