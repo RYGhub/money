@@ -166,4 +166,20 @@ pushtag #season-2
      Assets:Revolut                                                    5.00 EUR
      Income:SeasonPass                                                -5.00 EUR
 
+
 poptag #season-2
+
+2022-10-1 note Income:SeasonPass "Inizio Season 3"
+
+pushtag #season-3
+
+2022-10-1 * "Alleander" "RYG Season Pass - Autunno"
+     Assets:Revolut                                                    5.00 EUR
+     Income:SeasonPass                                                -5.00 EUR
+
+
+2022-10-1 * "Steffo" "Pagamento dominio ryg.one"
+     Assets:Revolut                                                   -20.00 EUR
+     Income:SeasonPass                                                20.00 EUR
+
+poptag #season-3
